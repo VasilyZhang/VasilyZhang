@@ -1,16 +1,49 @@
-## Hi there 👋
+# Vasily Zhang
 
-<!--
-**VasilyZhang/VasilyZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brand Marketing · Project Management · Tech Explorer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I focus on building brands, managing projects, and exploring how emerging technologies reshape business and growth.
+
+- Brand strategy & growth  
+- Project & cross-functional management  
+- Exploring AI / automation / digital tools  
+
+---
+
+## What I Do
+- Lead and execute brand campaigns  
+- Manage end-to-end project delivery  
+- Bridge business goals with technical possibilities  
+
+---
+
+## Selected Work
+- **Brand Campaign Optimization**  
+  Improved campaign efficiency through data-driven iteration  
+
+- **Cross-team Project Delivery**  
+  Coordinated marketing, product, and operations teams  
+
+- **AI Workflow Exploration**  
+  Testing automation tools to improve productivity  
+
+---
+
+## Currently Exploring
+- AI tools for marketing  
+- Automation & workflow design  
+- Data-informed decision making  
+
+---
+
+## Philosophy
+Simple ideas. Clear execution. Measurable impact.
+
+---
+
+## Contact
+- Email: vasily.zhang@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/vasily-zhang
